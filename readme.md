@@ -15,3 +15,15 @@
 Primer proyecto desde 0. Se aborda la instalación y configuración de serverless y el proceso de despliegue de lambdas.
 
 https://github.com/curso-serverless-lambda-APIGateway/hola-mundo
+
+## Password validator
+
+Validador de contraseñas online. Se utiliza la librería **zxcvbn**
+
+https://github.com/curso-serverless-lambda-APIGateway/password-strength
+
+## Crud a dynamoDB con express
+
+Proyecto con Expressjs, DynamoDB y rutas Proxy
+
+https://github.com/curso-serverless-lambda-APIGateway/crud-dynamo-express

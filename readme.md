@@ -22,8 +22,12 @@ Validador de contraseñas online. Se utiliza la librería **zxcvbn**
 
 https://github.com/curso-serverless-lambda-APIGateway/password-strength
 
-## Crud a dynamoDB con express
+## CRUD a dynamoDB con express
 
 Proyecto con Expressjs, DynamoDB y rutas Proxy
 
 https://github.com/curso-serverless-lambda-APIGateway/crud-dynamo-express
+
+## CRUD a MySQL con RDS
+
+https://github.com/curso-serverless-lambda-APIGateway/crud-mysql-rds

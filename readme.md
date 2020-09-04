@@ -30,4 +30,10 @@ https://github.com/curso-serverless-lambda-APIGateway/crud-dynamo-express
 
 ## CRUD a MySQL con RDS
 
+Proyecto con una base de datos MySQL en RDS
+
 https://github.com/curso-serverless-lambda-APIGateway/crud-mysql-rds
+
+## Subida de archivos a S3 con Lambdas dentro de VPC y Subnets utilizando Endpoints
+
+... in progress...

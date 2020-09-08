@@ -36,4 +36,6 @@ https://github.com/curso-serverless-lambda-APIGateway/crud-mysql-rds
 
 ## Subida de archivos a S3 con Lambdas dentro de VPC y Subnets utilizando Endpoints
 
-... in progress...
+Proyecto que permite subir archivos a s3 a través de una lambda
+
+https://github.com/curso-serverless-lambda-APIGateway/archivos-s3

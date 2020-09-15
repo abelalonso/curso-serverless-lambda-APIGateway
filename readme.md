@@ -39,3 +39,9 @@ https://github.com/curso-serverless-lambda-APIGateway/crud-mysql-rds
 Proyecto que permite subir archivos a s3 a través de una lambda
 
 https://github.com/curso-serverless-lambda-APIGateway/archivos-s3
+
+## Seguridad en servicios con API-KEYs
+
+Ejemplo de securización de servicios.
+
+https://github.com/curso-serverless-lambda-APIGateway/api-keys
